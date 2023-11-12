@@ -13,6 +13,7 @@
     "@uiw/codemirror-theme-eclipse": "^4.19.16",
     "@uiw/react-codemirror": "^4.19.16",
     "autoprefixer": "10.4.14",
+    "dotenv": "^16.3.1",
     "endent": "^2.1.0",
     "eventsource-parser": "^1.0.0",
     "install": "^0.13.0",
